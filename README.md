@@ -1,6 +1,8 @@
 # Hello, I'm Juan Victor
 ### Desenvolvedor Back End!!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1DevJuan&show_icons=true&theme=dracula)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1DevJuan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas skills:
