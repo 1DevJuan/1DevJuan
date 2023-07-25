@@ -4,7 +4,7 @@
 <div>
    <a href="https://github.com/1DevJuan">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1DevJuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DevJuan&layout=compact&langs_count=6&theme=tokyonight"/>
+   [![Titulo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikelme.lopes777@gmail.com?subject=&body=)
 </div>
 
 ## Minhas skills:
