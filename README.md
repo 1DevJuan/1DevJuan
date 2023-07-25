@@ -1,11 +1,13 @@
 # Bem Vindo ao perfil de Juan Victor !
 ### Desenvolvedor Back End!
 
-<div>
-   <a href="https://github.com/1DevJuan">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1DevJuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   [![Titulo](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikelme.lopes777@gmail.com?subject=&body=)
+<div align="center">
+  <a href="https://github.com/1DevJuan">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1DevJuan&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DevJuan&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
 </div>
+
 
 ## Minhas skills:
 <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" /><img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
