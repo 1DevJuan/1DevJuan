@@ -1,11 +1,11 @@
 # Bem Vindo ao perfil de Juan Victor !
 ### Desenvolvedor Back End!
 
-<div align="center">
-  <a href="https://github.com/1DevJuan">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1DevJuan&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DevJuan&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+<div>
+   <a href="https://github.com/devemdobro">
+   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=1DevJuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="190em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DevJuan&layout=compact&langs_count=6&theme=tokyonight"/>
+
 </div>
 
 
