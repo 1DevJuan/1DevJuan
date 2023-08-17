@@ -7,6 +7,11 @@
    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DevJuan&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
+### Terminal:
+
+[![Titulo](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+[![Titulo](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)]()
+
 
 ## Minhas skills:
 <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /><img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> 
