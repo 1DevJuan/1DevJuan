@@ -1,16 +1,9 @@
 # Bem Vindo ao perfil de Juan Victor !
 ### Desenvolvedor Back End!
 
-<div>
-   <a href="https://github.com/1DevJuan">
-   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=1DevJuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DevJuan&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
-
 
 ## Minhas skills:
-<img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /><img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /><img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> 
 
 ## Ferramentas:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
