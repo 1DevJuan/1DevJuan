@@ -1,6 +1,12 @@
 # Bem Vindo ao perfil de Juan Victor !
 ### Desenvolvedor Back End!
 
+ <div>
+   <a href="https://github.com/1DevJuam">
+   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=1DevJuan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DevJuan&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
 
 ## Minhas skills:
 <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" /><img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> 
